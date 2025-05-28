@@ -47,4 +47,16 @@ Este projeto tem como objetivo desenvolver uma aplicação simples capaz de iden
 
 
 
+## O projeto possui Tres Arquivos:
+
+
+**Leiame.md:** Descrição geral do projeto.
+
+**detalhes técnicos.md:** Explica detalhes importantes do projeto.
+
+**validador_cartao_gui.md:** Implementação do projeto em Python, com o código comentado.
+
+
+
+
 
